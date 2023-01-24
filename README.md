@@ -22,8 +22,9 @@ Print number of words present in given file
 
 ## PROGRAM:
 ```python
-#Devolped By:ALDRIN LIJO J E
-#Ref no:22008844
+command-line-arguments-to-count-word
+#Devolped By:Berjin Shabeck
+#Ref no:22007550
 import sys
 count = {}
 with open(sys.argv[1], 'r') as f:
